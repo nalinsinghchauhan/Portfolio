@@ -30,7 +30,7 @@ export default function Home() {
           id="top"
           firstName="NALIN"
           lastName="CHAUHAN"
-          tagline="Building intelligent systems. Engineering software that scales."
+          tagline="Building intelligent systems. Engineering softwares that scale."
           signature="NSC"
           accentColor="#d6a84f"
           profileImage="/NalinIMAGE.jpeg"
